@@ -2,9 +2,9 @@
 
 Simple Linux Driver that creates various devices:
 
-* [/dev/md5](../test/md5)
-* [/dev/RTC](../test/rtc)
-* [/dev/stack](../test/stack)
+* [/dev/md5](https://github.com/cruzlorite/mpc/tree/main/test/md5)
+* [/dev/RTC](https://github.com/cruzlorite/mpc/tree/main/test/rtc)
+* [/dev/stack](https://github.com/cruzlorite/mpc/tree/main/test/stack)
 
 ## Build
 
@@ -20,7 +20,7 @@ $ make
 You can install/remove the driver like this:
 
 ```sh
-$ sudo insmod build/mpc.ko nstacks=0
+$ sudo insmod mpc.ko nstacks=0
 $ sudo rmmod mpc.ko
 ```
 
