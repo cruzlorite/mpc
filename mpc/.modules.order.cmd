@@ -1,0 +1,1 @@
+cmd_/home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/modules.order := {   echo /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/mpc.ko; :; } | awk '!x[$$0]++' - > /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/modules.order

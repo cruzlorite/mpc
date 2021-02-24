@@ -1,0 +1,1 @@
+cmd_/home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/Module.symvers := sed 's/ko$$/o/' /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/modules.order | scripts/mod/modpost  -a   -o /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/Module.symvers -e -i Module.symvers   -T -
