@@ -1,1 +1,0 @@
-cmd_/home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/mpc.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/mpc.ko /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/mpc.o /home/jmcl/Escritorio/backup/PH/Prácticas/mpc/mpc/mpc.mod.o;  true
