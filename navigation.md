@@ -13,7 +13,7 @@
   * [Hacking HOWTO](data_model/hacking.md)
   * [OAuth docs](data_model/oauth.md)
   * [Crypto docs](data_model/crypto.md)
-  * 
+
 [Developer]()
 
   * [Hacking HOWTO](developer/hacking.md)
