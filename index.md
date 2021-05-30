@@ -1,5 +1,3 @@
-[gimmick:FacebookLike ( layout: 'buttoncount') ](http://www.facebook.com/pages/Rainy-note-sync-server-for-Tomboy/116321368557123) &nbsp; <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> <g:plusone size="medium" href="http://www.notesync.org"></g:plusone>
-
 News
 -----
 
