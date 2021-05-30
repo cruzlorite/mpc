@@ -1,19 +1,19 @@
 Recuperación Inteligente (ENEL)
 -----
 
-### Rainy post-GSoC Release v0.5.0
+### Apartado 1
 
 After three great months of hacking, the Google ...
 
-### Rainy accepted at Google Summer of Code 2013!
+### Apartado 2
 
 I am glad to announce ...
 
-### New website, new release!
+### Apartado 3
 
 I commited some chang ...
 
-### Introducing the 0.2.X release
+### Apartado 3
 
 The 0.2.X release series brin ...
 
