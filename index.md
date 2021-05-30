@@ -1,19 +1,19 @@
 Recuperación Inteligente (ENEL)
 -----
 
-### Apartado 1
+## Apartado 1
 
 After three great months of hacking, the Google ...
 
-### Apartado 2
+## Apartado 2
 
 I am glad to announce ...
 
-### Apartado 3
+## Apartado 3
 
 I commited some chang ...
 
-### Apartado 3
+## Apartado 3
 
 The 0.2.X release series brin ...
 
